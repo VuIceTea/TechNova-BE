@@ -1,4 +1,3 @@
-// Mock data for flash sale deals and promotional products
 const mockFlashSaleDeals = [
     {
         id: 'deal-1',
@@ -67,7 +66,6 @@ const mockFlashSaleDeals = [
     }
 ];
 
-// Mock data for regular promotional products
 const mockPromoProducts = [
     {
         id: 'promo-1',
@@ -121,7 +119,6 @@ const mockPromoProducts = [
     }
 ];
 
-// Mock data for vouchers/coupons
 const mockCoupons = [
     {
         id: 'coupon-1',
@@ -158,7 +155,6 @@ const mockCoupons = [
     }
 ];
 
-// Mock data for promotional banners 
 const mockPromoBanners = [
     {
         id: 'banner-1',

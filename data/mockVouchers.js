@@ -1,4 +1,3 @@
-// Mock data for vouchers and coupons
 export const mockVouchers = [
     {
         id: 'voucher-1',

@@ -1,5 +1,3 @@
-import { ButtonBase } from "@mui/material";
-
 export const mockPromoBanner = [
     {
         id: 1,

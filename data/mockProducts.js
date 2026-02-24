@@ -1,7 +1,4 @@
 const mockProducts = [
-    // Flash Sale Products - Sản phẩm đang có chương trình khuyến mãi đặc biệt
-    // Note: Trong database thật, ID sẽ là auto-increment integer (1, 2, 3...)
-    // Mock data dùng số lớn để tránh conflict với ID sản phẩm thường
     {
         id: 1001,
         name: 'Tai nghe chống ồn Sony WH-1000XM5',
@@ -178,7 +175,6 @@ const mockProducts = [
         }
     },
 
-    // Laptop gaming & MacBook 
     {
         id: 1,
         name: "Laptop Asus TUF Gaming F16 FX607VJ",
@@ -932,7 +928,7 @@ const mockProducts = [
                 { name: 'Đen', code: '#000000' },
                 { name: 'Bạc', code: '#C0C0C0' }
             ],
-            storages: [], // Không áp dụng
+            storages: [],
             connectivity: ['Bluetooth 5.2', 'Multipoint'],
             batteryLife: ['30 giờ ANC on', '40 giờ ANC off']
         }]
@@ -969,7 +965,7 @@ const mockProducts = [
                 { name: 'Xám', code: '#808080' },
                 { name: 'Cam', code: '#FFA500' }
             ],
-            storages: [], // Không áp dụng
+            storages: [],
             connectivity: ['Bluetooth 5.1'],
             batteryLife: ['20 giờ'],
             powerOutput: ['40W']
@@ -1242,7 +1238,7 @@ const mockProducts = [
             colors: [
                 { name: 'Trắng', code: '#FFFFFF' }
             ],
-            storages: [], // Không áp dụng
+            storages: [],
             resolution: ['1080p'],
             powerSource: ['Wired']
         }]
@@ -1308,7 +1304,7 @@ const mockProducts = [
                 { name: 'Xanh Charcoal', code: '#36454F' },
                 { name: 'Xanh Deep Sea Blue', code: '#000080' }
             ],
-            storages: [], // Không áp dụng
+            storages: [],
             features: ['With Clock', 'Without Clock'],
             connectivity: ['Wi-Fi', 'Bluetooth']
         }]
@@ -1339,7 +1335,7 @@ const mockProducts = [
             colors: [
                 { name: 'Trắng', code: '#FFFFFF' }
             ],
-            storages: [], // Không áp dụng
+            storages: [],
             packSize: ['1-pack', '2-pack', '4-pack'],
             compatibility: ['Alexa', 'Google Assistant', 'IFTTT']
         }]
@@ -1372,7 +1368,7 @@ const mockProducts = [
                 { name: 'Bạc Satin Nickel', code: '#A9A9A9' },
                 { name: 'Đồng Venetian Bronze', code: '#CD7F32' }
             ],
-            storages: [], // Không áp dụng
+            storages: [],
             powerSource: ['Battery', 'Wired'],
             resolution: ['1080p']
         }]

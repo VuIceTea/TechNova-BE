@@ -1,4 +1,3 @@
-// Mock data for FAQ (Frequently Asked Questions)
 export const mockFAQ = [
     {
         id: 'faq-1',
@@ -22,7 +21,6 @@ export const mockFAQ = [
     }
 ];
 
-// Mock data for support contact channels
 export const mockSupportChannels = [
     {
         id: 'channel-1',
@@ -52,7 +50,6 @@ export const mockSupportChannels = [
     }
 ];
 
-// Mock data for support request categories
 export const mockSupportCategories = [
     { id: 'warranty', name: 'Bảo hành & Sửa chữa' },
     { id: 'order-status', name: 'Trạng thái đơn hàng' },
